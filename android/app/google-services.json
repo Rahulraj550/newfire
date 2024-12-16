@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925701833118",
+    "project_id": "fir-pro-max",
+    "storage_bucket": "fir-pro-max.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925701833118:android:2f11147ce43cfd4af4968f",
+        "android_client_info": {
+          "package_name": "com.example.newfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925701833118-h77nk8e186j8rlsa3ubt80ve6hup4poc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newfire",
+            "certificate_hash": "9f458c3744c94c9c0734e6229690ecbfdd28d831"
+          }
+        },
+        {
+          "client_id": "925701833118-c3a6luha7fii3p6419hlo59cihsb17fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_LftbodSGqa1n300e6y4hJYjQql04_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925701833118-4dviv5331qbjgo8nnenfffl4bjv1lkrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
