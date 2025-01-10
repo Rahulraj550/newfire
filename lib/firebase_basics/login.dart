@@ -1,5 +1,4 @@
-import 'package:firebasepromax/firebase_basics/fire_authentication.dart';
-import 'package:firebasepromax/firebase_basics/registration.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

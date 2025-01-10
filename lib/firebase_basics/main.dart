@@ -1,5 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firebasepromax/phone/gmail.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 
